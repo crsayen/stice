@@ -1,0 +1,9 @@
+[submodule "kiswitch"]
+	path = kiswitch
+	url = git@github.com:crsayen/kiswitch.git
+[submodule "nice-nano-kicad"]
+	path = nice-nano-kicad
+	url = git@github.com:crsayen/nice-nano-kicad.git
+[submodule "Keebio-Parts.pretty"]
+	path = Keebio-Parts.pretty
+	url = git@github.com:crsayen/Keebio-Parts.pretty.git
